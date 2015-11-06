@@ -102,7 +102,7 @@
 				TargetAttributes = {
 					AAB62F1B1BDBB0190063C249 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = JLJXEBWPED;
+						DevelopmentTeam = F9NVME25UH;
 					};
 				};
 			};
@@ -301,6 +301,7 @@
 				AAB62F301BDBB0190063C249 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
